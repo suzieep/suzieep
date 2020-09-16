@@ -12,7 +12,7 @@
 - Machine Learning / Deep Learning
 -  Android programming (w/Java and React for mobile web)
 - Database system for Server development
-- iOS pro
+- iOS development
 
 #### 📫 How to reach me: ...
 
