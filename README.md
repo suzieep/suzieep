@@ -4,7 +4,7 @@
 
 #### 🔭 I’m currently working on ...
 
-- **Development of abnormal behavior detection model based on AI for integrated security control service**
+- Development of abnormal behavior detection model based on AI for integrated security control service
 - "placepic" iOS application
 
 #### 🌱 I’m currently learning ...
