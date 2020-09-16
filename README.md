@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, this is Suzie 👋
 
-<!--
-**suzieep/suzieep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studying Information and Communication Engineering
 
-Here are some ideas to get you started:
+##### 🔭 I’m currently working on ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Development of abnormal behavior detection model** 
+
+  **based on AI for integrated security control service**
+
+- "placepic" iOS application
+
+##### 🌱 I’m currently learning ...
+
+- Machine Learning / Deep Learning
+-  Android programming (w/Java and React for mobile web)
+- Database system for Server development
+- iOS pro
+
+##### 📫 How to reach me: ...
+
+- Blog : https://suzieep.tistory.com/ 
+- E-mail : wnsuwls0707@gmail.com
+
