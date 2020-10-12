@@ -19,3 +19,4 @@
 - Blog : https://suzieep.tistory.com/ 
 - E-mail : wnsuwls0707@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwoud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
