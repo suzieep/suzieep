@@ -1,23 +1,22 @@
-### Hi there, this is Suzie 👋
+## Hi there, this is Suzie 👋
 
 🎓 Studying Information and Communication Engineering
 
-#### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 
+- "Apophis" Server (w/ Node.js)
 - Development of abnormal behavior detection model based on AI for SIEM
 - "placepic" iOS application
 
-#### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
+- Spring boot
+- Node.js
 - Machine Learning / Deep Learning
--  Android programming (w/Java and React for mobile web)
-- Database system for Server development
 - iOS development
 
-#### 📫 How to reach me: ...
+### 📫 How to reach me: ...
 
-- Blog : https://suzieep.tistory.com/ 
+- Blog : https://velog.io/@suzieep
 - E-mail : wnsuwls0707@gmail.com
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzieep&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
