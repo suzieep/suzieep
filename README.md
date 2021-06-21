@@ -4,16 +4,19 @@
 
 ### 🔭 I’m currently working on ...
 
-- "Apophis" Server (w/ Node.js)
+- "Pairy" Backend
+- "Apophis" Backend
+- "nalul" Backend
 - Development of abnormal behavior detection model based on AI for SIEM
-- "placepic" iOS application
+- "placepic" iOS
 
 ### 🌱 I’m currently learning ...
 
-- Spring boot
 - Node.js
+- React
+- Spring
 - Machine Learning / Deep Learning
-- iOS development
+- iOS
 
 ### 📫 How to reach me: ...
 
