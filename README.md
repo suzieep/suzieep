@@ -4,6 +4,7 @@
 
 ### 🔭 I’m currently working on ...
 
+- "너가소개서" Main PM
 - "Pairy" Backend
 - "Apophis" Backend
 - "nalul" Backend
@@ -22,5 +23,5 @@
 
 - Blog : https://velog.io/@suzieep
 - E-mail : wnsuwls0707@gmail.com
-<br/>
-<br/>
+  <br/>
+  <br/>
