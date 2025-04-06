@@ -4,7 +4,7 @@
 
 ### 👀 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suzie-soojin-lee-2b18481ba/)](https://www.linkedin.com/in/suzie-soojin-lee-2b18481ba/) [![Notion Portfolio Badge](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/suzieep/Portfolio-69f1c454d7bd49959c86725d8f94a7dd?pvs=4) [![Tech Blog Badge](https://img.shields.io/badge/Devlog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@suzieep)](https://velog.io/@suzieep) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsuwls@gmail.com)](mailto:wnsuwls@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suzie-soojin-lee-2b18481ba/)](https://www.linkedin.com/in/suzie-soojin-lee-2b18481ba/) [![Tech Blog Badge](https://img.shields.io/badge/Devlog-11B48A?style=flat-square&link=https://suzie.gitbook.io/su.zip)](https://suzie.gitbook.io/su.zip) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&link=mailto:suzie.soojin.lee@gmail.com)](mailto:suzie.soojin.lee@gmail.com)
 
 </div>
 <br/>
